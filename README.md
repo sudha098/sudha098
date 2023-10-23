@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning new tools and technology in DevOps.
 - 💞️ I’m looking to collaborate on DevOps and Cloud.
 - 📫 Ping me on LinkedIn: https://www.linkedin.com/in/sudha-v-1322656b/
-- RHCSA and RHCE certified.
+- CKA, GCP ACE, RHCSA and RHCE certified.
 
 <!---
 sudha098/sudha098 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
