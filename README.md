@@ -27,7 +27,7 @@ Projects related to:
 ## 🎓 Certifications
 
 * **CKA** – Certified Kubernetes Administrator
-* **GCP ACE** – Google Cloud Professional Associate Cloud Engineer
+* **GCP ACE** – Google Cloud Associate Cloud Engineer
 * **RHCSA** – Red Hat Certified System Administrator
 * **RHCE** – Red Hat Certified Engineer
 
