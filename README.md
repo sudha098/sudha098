@@ -24,10 +24,6 @@ Projects related to:
 
 ---
 
-Here’s a shorter, crisper version while keeping everything impactful:
-
----
-
 ## 🎓 **Certifications**
 
 * **CKA** – Kubernetes Administrator
