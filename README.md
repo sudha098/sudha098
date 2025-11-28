@@ -24,57 +24,57 @@ Projects related to:
 
 ---
 
-## 🎓 Certifications
-
-* **CKA** – Certified Kubernetes Administrator
-* **GCP ACE** – Google Cloud Associate Cloud Engineer
-* **RHCSA** – Red Hat Certified System Administrator
-* **RHCE** – Red Hat Certified Engineer
+Here’s a shorter, crisper version while keeping everything impactful:
 
 ---
 
-## 🛠️ Technical Skills
+## 🎓 **Certifications**
 
-### 🚀 Containerization & Orchestration
+* **CKA** – Kubernetes Administrator
+* **GCP ACE** – Associate Cloud Engineer
+* **RHCSA** – Red Hat SysAdmin
+* **RHCE** – Red Hat Engineer
+
+---
+
+## 🛠️ **Technical Skills**
+
+### 🚀 **Containers & Orchestration**
 
 * Docker, Kubernetes, Helm
 
-### ☁️ Cloud Platforms
+### ☁️ **Cloud**
 
-* Google Cloud Platform (GCP), AWS
+* GCP, AWS
 
-### 🔄 CI/CD & DevOps Tools
+### 🔄 **CI/CD**
 
 * Jenkins, Bitbucket, Harness
 
-### ⚙️ Configuration & Infrastructure Management
+### ⚙️ **Infra as Code**
 
 * Ansible, Terraform
 
-### 📊 Monitoring & Logging
+### 📊 **Monitoring**
 
 * Prometheus, Grafana
 
-### 🔐 Security & Compliance
+### 🔐 **Security**
 
-* HashiCorp Vault, Aqua Security
-* Sonatype Nexus, Gitleaks, Nexus IQ
+* Vault, Aqua, Nexus IQ, Gitleaks
 
-### 🧪 Testing & Automation
+### 🧪 **Testing**
 
-* Selenium, Playwright, ZAP (Security Testing)
+* Selenium, Playwright, ZAP
 
-### 📦 Source Control & Artifact Repositories
+### 📦 **SCM & Artifacts**
 
-* Git, GitHub
-* Nexus Repository Manager, Google Artifact Registry (GAR)
+* Git, GitHub, Nexus, GAR
 
-### 🌐 Networking & Service Mesh
+### 🌐 **Networking**
 
 * Istio, Envoy
 
-### 🖥️ System Administration & Scripting
+### 🖥️ **System Admin**
 
-* Linux (RHEL), Bash scripting
-
-
+* Linux (RHEL), Bash
